@@ -1,2 +1,2 @@
-# projetos_paralelos
+# projetos_paralelos_loteria
 Pasta de projetos paralelos
